@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, me llamo José Arocha</h1>
 <h3 align="center">Ing. civil, como sólida comprensión de la programación orientada a objetos, backend developer apasionado</h3>
 
-- 🔭 I’m currently working on [estimsoft](www.estimsoft.com)
-
 - 📝 I regularly write articles on [www.linkedin.com/in/jose-alberto-arocha-rivas](www.linkedin.com/in/jose-alberto-arocha-rivas)
 
 - 💬 Ask me about **java,swing, spring boot, jpa, hibernate, angular, typescrip, html, ccs**
