@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, me llamo José Arocha</h1>
-<h3 align="center">Ing. civil, como sólida comprensión de la programación orientada a objetos, backend developer apasionado</h3>
+<h1 align="center">Hola 👋, me llamo José Alberto</h1>
+<h3 align="center">soy Ing. civil, con una sólida comprensión de la programación orientada a objetos, soy backend developer apasionado</h3>
 
 - 📝 I regularly write articles on [www.linkedin.com/in/jose-alberto-arocha-rivas](www.linkedin.com/in/jose-alberto-arocha-rivas)
 
