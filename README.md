@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, me llamo José Alberto</h1>
-<h3 align="center">soy Ing. civil, con una sólida comprensión de la programación orientada a objetos, soy backend developer apasionado</h3>
+
+## 👉 Sobre mí
+Ingeniero Civil, a lo largo de mi experiencia profesional y en los diferentes departamentos en los que he trabajado, siempre he estado involucrado en diversos proyectos que implicaron la programación del desarrollando de aplicaciones enfocadas a la gestión y el control de procesos. Entusiasta he interesado por las nuevas tecnologías.
 
 - 📝 Regularmente escribo artículos en [www.linkedin.com/in/jose-alberto-arocha-rivas](www.linkedin.com/in/jose-alberto-arocha-rivas)
 
