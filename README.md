@@ -20,7 +20,7 @@ Ingeniero Civil, a lo largo de mi experiencia profesional y en los diferentes de
 
 
 
-## 📝 Principal proyecto:
+## 📝 Mi principal proyecto:
 Incluye el desarrollo y la programación de un sistema de estimación de costos, el cual cuenta con una Interfaz gráfica de usuario diseñada con SWING, permite conexiones en la nube á traves de diferentes Bases de datos MySQL o SQLite para trabajar en local, genera diferentes informes con Jarper Report.
 
 Permite a sus usuarios elaborar presupuestos de Obras, bienes o Servicios (Estimados de Costos clase I) y reportar información sobre ellos, utilizando la filosofía de estimación detallada (análisis de precios unitarios).
